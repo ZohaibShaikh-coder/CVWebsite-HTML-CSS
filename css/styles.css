@@ -1,0 +1,176 @@
+.top
+{
+  text-align: center;
+  background-image: url(thumb-1920-5325591.jpg);
+  height: 520px;
+  background-size: 100% 100%;
+  position: relative;
+  margin-top:-35px;
+  margin-bottom: -15px;
+}
+
+.Top-Page-H1
+{
+  font-size: 45px;
+  padding-top: 270px;
+  color: white;
+  text-shadow: #B983FF 5px 5px 5px;
+  font-family: 'Kaushan Script', cursive;
+  letter-spacing: 1.5px;
+  left: 20px;
+}
+
+.Top-Page-H3
+{
+  font-size: 22px;
+  color: white;
+  text-shadow: #B983FF 5px 5px 5px;
+  font-family: 'Bebas Neue', cursive;
+}
+
+.bottom
+{
+  background-color: #A2DBFA;
+  margin-top: 0;
+}
+
+body
+{
+  margin: auto;
+}
+
+.top-cloud
+{
+  height: 150px;
+  position: absolute;
+  top: 150px;
+  left: 440px;
+}
+
+.bottom-cloud
+{
+  height: 150px;
+  position: absolute;
+  bottom: 5px;
+  right : 420px;
+}
+
+.profile
+{
+  text-align: center;
+  margin-top: 15px;
+}
+
+h2
+{
+  font-weight: 400;
+  font-size: 28px;
+  letter-spacing: 1px;
+  font-family: 'Lobster', cursive;
+  color: black;
+  text-shadow: white 4px 4px 4px;
+}
+.Hello-On-WP
+{
+  font-weight: bolder;
+  font-family: 'Courgette', cursive;
+  font-size: 33px;
+  margin-top: 7px;
+  color: white;
+  text-shadow: #99FEFF 5px 5px 5px;
+}
+
+.Intro-After-Hello
+{
+  font-weight: 600;
+  font-size: 18px;
+  color: white;
+  font-family: 'Fugaz One', cursive;
+  text-shadow: #99FEFF 3px 3px 3px; /*#99FEFF8*/
+}
+
+.skills
+{
+ background-color: #c4e4fc;
+ margin: 0;
+}
+
+.middle
+{
+  margin: 0;
+  /*background-color: #d1d1e0;*/
+  background-image: url(https://media.giphy.com/media/13bGgH9VnEDsuA/giphy.gif);/*https://media.giphy.com/media/gWb7yHglwMZKovBllB/giphy.gif*/
+  background-size: 100% 38%;
+  background-position: left;
+  margin-bottom: -15px;
+}
+
+.ProfilePic
+{
+  margin-top: 15px;
+}
+
+.EatCode
+{
+  display: inline-block;
+  position: absolute;
+  left: 600px;
+  top: 990px;
+}
+
+.Education
+{
+  background-color: #c4e4fc;
+  margin-top: 0;
+}
+
+hr
+{
+  margin: 0;
+}
+
+
+.EduListStyle
+{
+  margin-bottom: 0;
+}
+
+.CopyRightTag
+{
+  margin-bottom: 0;
+  font-family: 'Carter One', cursive;
+  font-size: 15px;
+  text-shadow: white 1.5px 1.5px 1.5px;
+  margin-left: 43%;
+
+}
+
+.ContactMe
+{
+  height: 130px;
+}
+
+.SocialLogo
+{
+  margin-top: 12px;
+  width: 46px;
+  float: left;
+  margin-right: 10px;
+}
+
+.footer-link
+{
+  font-size: 18px;
+  line-height: 2;
+}
+
+a
+{
+  color: #F7F7F7;
+  text-decoration: none;
+}
+
+a:hover
+{
+  color:#B980F0;
+}
